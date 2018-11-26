@@ -1,9 +1,4 @@
 # threading
 多线程脚本
-使用
-使用python
-使用python实现
-使用python实现多程序
-使用python实现多程序读取
-使用python实现多程序读取同一个
+
 使用python实现多程序读取同一个文件
